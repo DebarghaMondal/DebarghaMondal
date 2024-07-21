@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debargha Mondal.
 - 👀 I’m interested in coding.
-- 🌱 Currently learning JavaScript.
+- 🌱 Currently learning JavaScript and MERN stack development.
 - 💞️ Seeking collaboration on web development projects.
 - 📫 Reach me at: debarghamondal41022@gmail.com
 - 😄 Pronouns: he/him
