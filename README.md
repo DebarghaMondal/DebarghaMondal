@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MongoDB, Express, React, NodeJS**
 
-- 📫 How to reach me **debarghamondal41022@gmail.com**
+- 📫 How to reach me **debargha209@gmail.com**
 
 - ⚡ Fun fact **I enjoy creating mini web projects to experiment with new coding techniques and designs.**
 
